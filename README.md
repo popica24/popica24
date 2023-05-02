@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrei 👋 
   
-    I'm from Romania  and I'm a developer with experience in designing and implementing software solutions. Focused on C#(.Net) / JavaScript but not limited to that, always eager to learn and improve my skills.  
+    I'm from Romania  and I'm a developer with experience in designing and implementing software solutions. Focused on .NET Core but not limited to that, always eager to learn and improve my skills.  
 
 ## I'm a Student, Hardworker, and a Continuous Learner!!
 
