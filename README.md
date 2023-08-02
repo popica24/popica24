@@ -4,10 +4,10 @@
 
 ## I'm a Student, Hardworker, and a Continuous Learner!!
 
-- 🔭 Year 2 Computer Science!
+- 🔭 Year 3 Computer Science!
 - 🌱 I’m currently learning everything 🤣.
 - 👯 I’m looking after remote or office-based work / projects!
-- 🥅 2022 Goals: Contribute more to Open Source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I love Kanye West and I'm passionate about the fashion industry.
 
 ### Connect with me:
