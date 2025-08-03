@@ -1,39 +1,62 @@
-### Hi there, I'm Andrei 👋 
-  
-    I'm from Romania  and I'm a developer with experience in designing and implementing software solutions. Focused on .NET Core but not limited to that, always eager to learn and improve my skills.  
+### Hi there, I'm Andrei 👋
 
-## I'm a Student, Hardworker, and a Continuous Learner!!
+I'm a **software developer and teacher from Romania** with a passion for building things from scratch, solving real problems, and helping others grow — whether that's through code or coaching.
 
-- 🔭 Completed Computer Science!
-- 🌱 I’m currently learning everything 🤣.
-- 👯 I’m looking after remote or office-based work / projects!
-- 🥅 2024 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love Kanye West and I'm passionate about the fashion industry.
+I started with landing pages, then leveled up into fullstack projects, exploring everything from **.NET Core**, **React**, and **Django** to **RabbitMQ** and **Mantine UI**. At one point, I thought I'd work solo forever — until I got hit by this quote:
 
-### Connect with me:
+> 💡 *“Working alone gets you there faster. Working in a team gets you further.”*
 
-[![Linkedin Badge](https://img.shields.io/badge/Popescu_Andrei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/popescu-andrei-bb960620a/)](https://www.linkedin.com/in/popescu-andrei-bb960620a/) 
-[![Gmail Badge](https://img.shields.io/badge/-andreip927@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andreip927@gmail.com)](mailto:andreip927@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/popica___-cd486b?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/popica___/)](https://www.instagram.com/popica___/)
+---
 
-### Languages and Tools:
+## 💼 What I Do
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/93d8a67084f94b2a444e510199a6e7622e5b09a3/topics/dotnet/dotnet.png" />
-<img align="left" alt="CSharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+- 🧠 **Fullstack development** (C#, JavaScript, Python)
+- 🎓 **Freelance teaching** (private lessons, mentoring, student support)
+- 🧰 Designing maintainable software with **DDD**, **CQRS**, **Clean Architecture**
+- 🚀 Deploying apps, fixing bugs, and pushing new features — fast
 
-<br />
-<br />
+---
 
-[instagram]:https://www.instagram.com/popica___/
-[linkedin]: https://www.linkedin.com/in/popescu-andrei-bb960620a/
+## 🛠 Tech Stack
+
+**Languages & Frameworks:**  
+`.NET Core`, `C#`, `JavaScript`, `TypeScript`, `Node.js`, `Python`, `HTML`, `CSS`, `SQL`
+
+**Frontend:**  
+`React`, `Mantine UI`, `Tailwind`, `Vite`
+
+**Backend:**  
+`ASP.NET Core`, `Entity Framework`, `REST APIs`, `Redis`, `RabbitMQ`
+
+**Tools & Platforms:**  
+`Git`, `GitHub`, `Visual Studio`, `VS Code`, `Postman`, `MySQL`
+
+---
+
+## 🎯 2025 Goals
+
+- Contribute more to **open-source**
+- Launch my own coding course
+- Help more students break into tech
+- Collaborate on impactful freelance projects
+
+---
+
+## ✨ Fun Facts
+
+- 🎶 Big Kanye West fan  
+- 👟 Into fashion and streetwear  
+- 🧩 Love debugging tricky problems  
+- 📚 Constantly learning — currently diving deeper into testing & system design  
+
+---
+
+### 📬 Connect with Me
+
+[![LinkedIn Badge](https://img.shields.io/badge/Popescu_Andrei-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/popescu-andrei-bb960620a/)  
+[![Gmail Badge](https://img.shields.io/badge/-andreip927@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:andreip927@gmail.com)  
+[![Instagram Badge](https://img.shields.io/badge/popica___-cd486b?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/popica___/)
+
+---
+
+🌱 *Water your garden.*
